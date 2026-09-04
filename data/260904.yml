@@ -7,7 +7,7 @@ about:
   head: aac9046
   archived: false
   latestVersion: 0.13.0
-  collectedAt: 2026-09-04T19:25:58Z
+  collectedAt: 2026-09-04T21:10:37Z
 timeline:
   created: 2018-01-03
   lastCommit: 2022-11-13
@@ -80,6 +80,29 @@ total:
   openIssue: 1
   commit: 427
 ---
+path: /home/runner/.x-repo/github.com/darakian/ddh
+collectedAt: 2026-09-04T21:10:37Z
+loc:
+  Rust:
+    code: 605
+    comments: 4
+    blanks: 33
+    files: 4
+  Toml:
+    code: 22
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47
+    blanks: 10
+    files: 1
+total:
+  code: 632
+  comments: 151
+  blanks: 59
+  files: 6
 ---
 date: "2026-08-24"
 repo:
