@@ -7,7 +7,7 @@ A fast duplicate file finder
 - **Latest release**: `0.13.0` (2022-11-13)
 - **Last commit**: 2022-11-13
 - **License**: NOASSERTION
-- **Stars**: 491 · **Forks**: 17 · **Open issues**: 19 · **Contributors**: 7
+- **Stars**: 491 · **Forks**: 16 · **Open issues**: 19 · **Contributors**: 7
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ddh> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:19:17Z._
+_Last regenerated: 2026-09-09T06:18:56Z._
