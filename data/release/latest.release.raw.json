@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 920120,
       "digest": null,
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2022-11-13T23:39:10Z",
       "updated_at": "2022-11-13T23:39:12Z",
       "browser_download_url": "https://github.com/darakian/ddh/releases/download/0.13.0/ddh-0.13.0-aarch64-linux.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1414401,
       "digest": null,
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2022-11-13T23:08:27Z",
       "updated_at": "2022-11-13T23:08:30Z",
       "browser_download_url": "https://github.com/darakian/ddh/releases/download/0.13.0/ddh-0.13.0-aarch64-macos.bin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1079944,
       "digest": null,
-      "download_count": 92,
+      "download_count": 94,
       "created_at": "2022-11-13T23:39:16Z",
       "updated_at": "2022-11-13T23:39:17Z",
       "browser_download_url": "https://github.com/darakian/ddh/releases/download/0.13.0/ddh-0.13.0-x86_64-linux.bin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1471944,
       "digest": null,
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2022-11-13T23:39:43Z",
       "updated_at": "2022-11-13T23:39:45Z",
       "browser_download_url": "https://github.com/darakian/ddh/releases/download/0.13.0/ddh-0.13.0-x86_64-macos.bin"
